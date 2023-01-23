@@ -17,7 +17,7 @@ In this assignment, we worked with a dataset titles `energy.csv` , containing ho
 Includes all create and insert statements used to make our model as well as the required questions from the professor and the code used to answer them
 2. SQL II - Group 5 Assignment PDF
 
-
+PDF the data model explanation and snapshots of the Entity Relationship Diagram (ERD)
 3. SQL_Group_Assignment_Group 5
 
 ## SQL Project Description
