@@ -13,7 +13,11 @@ In this assignment, we worked with a dataset titles `energy.csv` , containing ho
 
 ## SQL Project File Index
 1. SQL-2 Group Assignment PDF
+
+Includes all create and insert statements used to make our model as well as the required questions from the professor and the code used to answer them
 2. SQL II - Group 5 Assignment PDF
+
+
 3. SQL_Group_Assignment_Group 5
 
 ## SQL Project Description
